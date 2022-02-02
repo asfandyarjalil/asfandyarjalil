@@ -18,7 +18,7 @@ My Name is Asfandyar Jalil and I am a Backend Developer (NodeJs , ExpressJS , Mo
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Expressjs](https://img.shields.io/badge/-Express.js-787878?style=flat-square&logo=Express.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nextjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=Next.js)
+![Nextjs](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass)
